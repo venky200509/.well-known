@@ -3,11 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "94KV3E626L.com.amazon.AmazonIN",
+        "appID": "94KV3E626L.com.amazon.AmazonIN.development",
         "paths": ["*"]
       },
       {
-        "appID": "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+        "appID": "94KV3E626L.com.amazon.AmazonPayIN.development",
         "paths": ["*"]
       },
       {
@@ -18,9 +18,10 @@
   },
   "webcredentials": {
     "apps": [
-      "94KV3E626L.com.amazon.AmazonIN",
-      "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+      "94KV3E626L.com.amazon.AmazonIN.development",
+      "94KV3E626L.com.amazon.AmazonPayIN.development",
       "94KV3E626L.com.amazon.Amazon.development"
     ]
   }
 }
+
