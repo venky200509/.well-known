@@ -1,0 +1,36 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "94KV3E626L.com.amazon.AmazonIN",
+          "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+          "94KV3E626L.com.amazon.AmazonIN.development",
+          "94KV3E626L.com.amazon.AmazonBusinessIndia",
+          "94KV3E626L.com.amazon.AmazonBusinessIndia.adhoc",
+          "5F4A8FGMM7.com.amazon.AmazonBusinessIndia.Enterprise",
+          "94KV3E626L.com.amazon.AmazonBusinessIndia.development",
+          "94KV3E626L.com.amazon.AmazonPayIN",
+          "94KV3E626L.com.amazon.AmazonPayIN.development",
+          "5F4A8FGMM7.com.amazon.AmazonPayIN.Enterprise"
+        ],
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "94KV3E626L.com.amazon.AmazonIN",
+      "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+      "94KV3E626L.com.amazon.AmazonIN.development",
+      "94KV3E626L.com.amazon.AmazonBusinessIndia",
+      "94KV3E626L.com.amazon.AmazonBusinessIndia.adhoc",
+      "5F4A8FGMM7.com.amazon.AmazonBusinessIndia.Enterprise",
+      "94KV3E626L.com.amazon.AmazonBusinessIndia.development",
+      "94KV3E626L.com.amazon.AmazonPayIN",
+      "94KV3E626L.com.amazon.AmazonPayIN.development",
+      "5F4A8FGMM7.com.amazon.AmazonPayIN.Enterprise"
+    ]
+  }
+}
