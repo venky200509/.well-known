@@ -3,11 +3,15 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "94KV3E626L.com.amazon.AmazonIN",
-          "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
-          "94KV3E626L.com.amazon.AmazonIN.development"
-        ],
+        "appID": "94KV3E626L.com.amazon.AmazonIN",
+        "paths": ["*"]
+      },
+      {
+        "appID": "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+        "paths": ["*"]
+      },
+      {
+        "appID": "94KV3E626L.com.amazon.AmazonIN.development",
         "paths": ["*"]
       }
     ]
