@@ -3,24 +3,32 @@
     "apps": [],
     "details": [
       {
-        "appID": "94KV3E626L.com.amazon.AmazonIN.development",
-        "paths": ["*"]
-      },
-      {
-        "appID": "94KV3E626L.com.amazon.AmazonPayIN.development",
-        "paths": ["*"]
-      },
-      {
-        "appID": "94KV3E626L.com.amazon.Amazon.development",
-        "paths": ["*"]
+        "appIDs": [
+          "94KV3E626L.com.amazon.Amazon",
+          "94KV3E626L.com.amazon.AmazonIN",
+          "5F4A8FGMM7.com.amazon.Amazon.Enterprise",
+          "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+          "A78H8C55MT.com.amazon.Amazon.dev",
+          "94KV3E626L.com.amazon.Amazon.development",
+          "94KV3E626L.com.amazon.AmazonIN.development"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-      "94KV3E626L.com.amazon.AmazonIN.development",
-      "94KV3E626L.com.amazon.AmazonPayIN.development",
-      "94KV3E626L.com.amazon.Amazon.development"
+      "94KV3E626L.com.amazon.AmazonIN",
+      "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+      "94KV3E626L.com.amazon.Amazon",
+      "A78H8C55MT.com.amazon.Amazon.dev",
+      "5F4A8FGMM7.com.amazon.Amazon.Enterprise",
+      "94KV3E626L.com.amazon.Amazon.development",
+      "94KV3E626L.com.amazon.AmazonIN.development"
     ]
   }
 }
